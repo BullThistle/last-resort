@@ -20,7 +20,12 @@ h4 {
   color: white;
 }
 body {
-  background-image: url(../photos/2.jpg);
+  background-image: url(../photos/w2.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size : 100% auto;
   background-attachment: fixed;
 }
 .links {
