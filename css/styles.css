@@ -14,6 +14,11 @@ h3 {
   text-align: center;
   color: white;
 }
+h4 {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
 body {
   background-image: url(../photos/2.jpg);
   background-attachment: fixed;
@@ -25,9 +30,15 @@ body {
 }
 .link-box {
   text-align: center;
-  width: 150px;
+  width: 190px;
   margin: 10px 10px 10px 10px;
   border:2px solid black;
   border-width: 3px;
   background-color: white;
+}
+p {
+  font-size: 20px;
+  color: white;
+  font-weight: 200;
+  background-color: #145214;
 }
